@@ -2,19 +2,22 @@ project:
   type: website
 
 website:
-  title: "PortfoliobyTaeEun"
+  title: "TAEEUNCHOI"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - href: about.qmd
+        text: "ABOUT"
+      - href: contact.qmd
+        text: "CONTACT"
+  page-footer:
+    center: "© 2025 Tae Eun Choi"
 
 format:
   html:
-    theme:
-      - yeti
+    theme: minty
     css: styles.css
-    toc: true
-
-
-
+    toc: false
+    page-layout: full
+    mainfont: "Inter"
+    headingfont: "Playfair Display"
+    monofont: "Fira Code"

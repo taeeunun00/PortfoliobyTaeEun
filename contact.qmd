@@ -1,0 +1,32 @@
+---
+format:
+  html:
+    toc: false
+    page-layout: full
+execute:
+  echo: false
+  eval: false
+---
+
+<section style="width:100%; padding: 80px 6% 160px 6%; box-sizing: border-box;">
+
+  <h1 style="font-size: 96px; margin: 0 0 28px 0; line-height: 0.95;">
+    GET IN TOUCH
+  </h1>
+
+  <p style="font-size: 28px; margin: 0 0 60px 0; line-height: 1.45;">
+    I am always open for further communication and collaboration.<br>
+    Please feel free to contact me!
+  </p>
+
+  <ul style="list-style: none; padding: 0; margin: 0; line-height: 2.2;">
+    <li style="font-size: 20px; margin-bottom: 12px;">✉️ tc775@cornell.edu</li>
+    <li style="font-size: 20px; margin-bottom: 12px;">✉️ taeeunun00@gmail.com</li>
+    <li style="font-size: 20px;">
+      🔗 <a href="https://www.linkedin.com/in/tae-eun-choi-a36b7b225" target="_blank">
+        https://www.linkedin.com/in/tae-eun-choi-a36b7b225
+      </a>
+    </li>
+  </ul>
+
+</section>

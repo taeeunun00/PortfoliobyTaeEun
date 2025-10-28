@@ -1,7 +1,61 @@
 ---
-title: "PortfoliobyTaeEun"
 ---
 
-This is a Quarto website.
+::: {.grid}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.g-col-6}
+<div class="project-card">
+  <img src="images/project1.jpg" width="100%">
+  <div class="project-title">BLOG: SCENTSTORY</div>
+</div>
+:::
+
+::: {.g-col-6}
+<div class="project-card">
+  <img src="images/project2.jpg" width="100%">
+  <div class="project-title">LOOKBOOK: JOYA MA</div>
+</div>
+:::
+
+::: {.g-col-6}
+<div class="project-card">
+  <img src="images/project3.jpg" width="100%">
+  <div class="project-title">COMPENDIUM: THE POWER OF FASHION</div>
+</div>
+:::
+
+::: {.g-col-6}
+<div class="project-card">
+  <img src="images/project4.jpg" width="100%">
+  <div class="project-title">CATALOG: HOME & SAFETY</div>
+</div>
+:::
+
+::: {.g-col-6}
+<div class="project-card">
+  <img src="images/project5.jpg" width="100%">
+  <div class="project-title">BRAND BOOK: ATONET</div>
+</div>
+:::
+
+::: {.g-col-6}
+<div class="project-card">
+  <img src="images/project6.jpg" width="100%">
+  <div class="project-title">POSTER: SURFING SUBCULTURE</div>
+</div>
+:::
+
+::: {.g-col-6}
+<div class="project-card">
+  <img src="images/project7.jpg" width="100%">
+  <div class="project-title">POSTER: ETHICAL DECISIONS</div>
+</div>
+:::
+
+::: {.g-col-6}
+<div class="project-card">
+  <img src="images/project8.jpg" width="100%">
+  <div class="project-title">COMPENDIUM: DIVERSITY & INCLUSION IN LUXURY FASHION</div>
+</div>
+:::
+:::
